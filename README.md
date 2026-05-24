@@ -6,6 +6,7 @@
 
 - [fcitx5-hangul](https://github.com/fcitx/fcitx5-hangul) - Fcitx5용 한글 엔진. KDE 및 Wayland WM 환경에 권장.
 - [ibus-hangul](https://github.com/libhangul/ibus-hangul) - IBus용 한글 엔진. GNOME 기본.
+- [ibus-m17n](https://github.com/ibus/ibus-m17n) - m17n 라이브러리 기반 IBus 범용 엔진. m17n-db의 romaja/han2 등으로 한글 입력 가능. 로마자 표기 기반 입력에 적합.
 - [kime](https://github.com/Riey/kime) - Rust로 작성된 한글 전용 엔진. XIM/Wayland/GTK/Qt 프론트엔드 자체 제공.
 - [nabi](https://github.com/libhangul/nabi) - XIM 서버 형태의 가벼운 한글 입력기. X11 전용.
 - [nimf](https://github.com/hamonikr/nimf) - 독립 입력기 프레임워크 겸 엔진. HamoniKR 팀이 포크해 유지 중.
